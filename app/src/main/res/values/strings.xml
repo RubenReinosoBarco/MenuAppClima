@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MenuAppClima</string>
+
+    <string name="user_name">Rubén Reinoso</string>
+    <string name="user_email">Ruben@gmail.com</string>
+
+    <string name="open_drawer">Navigation Drawer is open</string>
+    <string name="close_drawer">Navigation Drawer is close</string>
+
+    <string name="home_fragment_title">Inicio</string>
+    <string name="home_fragment_hello"></string>
+    <string name="arrivals_fragment_title">Añadir Ciudad</string>
+    <string name="arrivals_fragment_hello">Hello from Arrivals</string>
+    <string name="departures_fragment_title">Ciudades</string>
+    <string name="departures_fragment_hello">Hello from Departure</string>
+
+
+    <string name="texto_grados">23º</string>
+    <string name="texto_ciudad">Ciudad de México</string>
+    <string name="texto_estatus">Nublado</string>
+    <string name="texto_boton_mexico">Clima de la Ciudad de México</string>
+    <string name="texto_boton_berlin">Clima de la Ciudad de Berlin</string>
+    <string name="texto_boton_madrid">Clima de la Ciudad de Madrid</string>
+    <string name="texto_bienvenida">Bienvenido a mi app del clima, para poder ver el clima de una cidudad selecciona selleciona la opción de abajo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
